@@ -1,3 +1,4 @@
+![logo](https://github.com/Ssatapathy25/Ssatapathy25/blob/main/githubpic.png.jpg)
 <h1 align="center">Hi 👋, I'm Subhashree Satapathy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
  
